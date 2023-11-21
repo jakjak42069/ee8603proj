@@ -1,0 +1,9 @@
+# Abstract
+
+This project involved utilizing a regression algorithm on the Abalone dataset provided by UC Irvine [1] in order to predict the age of Abalone trees. The Abalone dataset consists of physical measurement of abalone trees as features for consideration. The regression algorithm chosen was Extra Trees Regressor due to the sex feature from the dataset having poor correlation scores.
+
+Reference: [1] W. Nash, T. Sellers, S. Talbot, A. Cawthorn, and W. Ford, “UCI Machine Learning Repository,” archive.ics.uci.edu, 1995. Available: https://archive.ics.uci.edu/dataset/1/abalone. [Accessed: Oct. 13, 2023]
+
+
+
+
