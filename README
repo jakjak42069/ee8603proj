@@ -1,4 +1,4 @@
-# Abstract
+#Abstract
 
 This project involved utilizing a regression algorithm on the Abalone dataset provided by UC Irvine [1] in order to predict the age of Abalone trees. The Abalone dataset consists of physical measurement of abalone trees as features for consideration. The regression algorithm chosen was Extra Trees Regressor due to the sex feature from the dataset having poor correlation scores.
 
