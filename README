@@ -1,8 +1,59 @@
-#Abstract
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#abstract">Abstract</a></li>
+    <li><a href="#Video">Video</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#references">References</a></li>
+  </ol>
+</details>
 
-This project involved utilizing a regression algorithm on the Abalone dataset provided by UC Irvine [1] in order to predict the age of Abalone trees. The Abalone dataset consists of physical measurement of abalone trees as features for consideration. The regression algorithm chosen was Extra Trees Regressor due to the sex feature from the dataset having poor correlation scores.
+
+
+<!-- ABSTRACT -->
+## Abstract
+
+This project involved utilizing a regression algorithm on the Abalone dataset provided by UC Irvine [1] in order to predict the age of Abalone trees. 
+The Abalone dataset consists of physical measurement of abalone trees as features for consideration. 
+The regression algorithm chosen was Extra Trees Regressor due to the sex feature from the dataset having poor correlation scores.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- VIDEO -->
+## Video
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+Jack Adebisi - badebisi@torontomu.ca
+
+Project Link: [https://github.com/jakjak42069/ee8603proj](https://github.com/jakjak42069/ee8603proj)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- REFERENCES -->
+## References
 
 Reference: [1] W. Nash, T. Sellers, S. Talbot, A. Cawthorn, and W. Ford, “UCI Machine Learning Repository,” archive.ics.uci.edu, 1995. Available: https://archive.ics.uci.edu/dataset/1/abalone. [Accessed: Oct. 13, 2023]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 
